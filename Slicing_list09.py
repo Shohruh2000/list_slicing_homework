@@ -6,5 +6,6 @@ def main(list1,n):
         n(int): parameter
     Returns:
         list: return answer.
-    """
-    return
+    """  
+    a = len(list1)
+    return list[n:a+1]
